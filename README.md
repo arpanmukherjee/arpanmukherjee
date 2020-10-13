@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="arpanmukherjee" /> </p>
 
-- 🔭 I’m currently working on **Microsoft 365 (Formerly Office 365), Outlook extensibility iOS**
+- 🔭 I’m currently working on **Microsoft 365 (Formerly Office 365), Outlook extensibility iOS platform.**
 
 - 👯 I’m looking to collaborate on **NLP Research Projects.**
 
-- 👨‍💻 All of my projects are available at [arpanmukherjee.me](http://arpanmukherjee.me/)
+- 👨‍💻 All of my projects are available at [arpanmukherjee.me](http://arpanmukherjee.me/).
 
 - 💬 Ask me about **Machine Learning, Data Science.**
 
-- 📄 Know about my experiences from my [Resume](http://arpanmukherjee.me/docs/Arpan_Mukherjee.pdf)
+- 📄 Know about my experiences from my [Resume](http://arpanmukherjee.me/docs/Arpan_Mukherjee.pdf).
 
-- ⚡ Fun fact **Avid Biker**
+- ⚡ Fun fact **Avid Biker.**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
